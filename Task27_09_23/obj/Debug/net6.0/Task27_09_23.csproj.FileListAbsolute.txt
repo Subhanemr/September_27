@@ -1,0 +1,14 @@
+C:\Users\T x\Desktop\Control structure(Conditional)\Task27_09_23\Task27_09_23\bin\Debug\net6.0\Task27_09_23.exe
+C:\Users\T x\Desktop\Control structure(Conditional)\Task27_09_23\Task27_09_23\bin\Debug\net6.0\Task27_09_23.deps.json
+C:\Users\T x\Desktop\Control structure(Conditional)\Task27_09_23\Task27_09_23\bin\Debug\net6.0\Task27_09_23.runtimeconfig.json
+C:\Users\T x\Desktop\Control structure(Conditional)\Task27_09_23\Task27_09_23\bin\Debug\net6.0\Task27_09_23.dll
+C:\Users\T x\Desktop\Control structure(Conditional)\Task27_09_23\Task27_09_23\bin\Debug\net6.0\Task27_09_23.pdb
+C:\Users\T x\Desktop\Control structure(Conditional)\Task27_09_23\Task27_09_23\obj\Debug\net6.0\Task27_09_23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T x\Desktop\Control structure(Conditional)\Task27_09_23\Task27_09_23\obj\Debug\net6.0\Task27_09_23.AssemblyInfoInputs.cache
+C:\Users\T x\Desktop\Control structure(Conditional)\Task27_09_23\Task27_09_23\obj\Debug\net6.0\Task27_09_23.AssemblyInfo.cs
+C:\Users\T x\Desktop\Control structure(Conditional)\Task27_09_23\Task27_09_23\obj\Debug\net6.0\Task27_09_23.csproj.CoreCompileInputs.cache
+C:\Users\T x\Desktop\Control structure(Conditional)\Task27_09_23\Task27_09_23\obj\Debug\net6.0\Task27_09_23.dll
+C:\Users\T x\Desktop\Control structure(Conditional)\Task27_09_23\Task27_09_23\obj\Debug\net6.0\refint\Task27_09_23.dll
+C:\Users\T x\Desktop\Control structure(Conditional)\Task27_09_23\Task27_09_23\obj\Debug\net6.0\Task27_09_23.pdb
+C:\Users\T x\Desktop\Control structure(Conditional)\Task27_09_23\Task27_09_23\obj\Debug\net6.0\Task27_09_23.genruntimeconfig.cache
+C:\Users\T x\Desktop\Control structure(Conditional)\Task27_09_23\Task27_09_23\obj\Debug\net6.0\ref\Task27_09_23.dll
